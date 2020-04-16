@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jii", "Jii.csproj", "{6FAED8D8-6631-4D2F-AA9F-018D91C89BE5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwitterCommunications", "..\TwitterCommunications\TwitterCommunications.csproj", "{0FF3CE60-0F55-4669-B76F-28FA8F76797E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwitterCommunicationsTester", "..\TwitterCommunicationsTester\TwitterCommunicationsTester.csproj", "{6D330FB8-5DEE-4CB1-824D-B770BD219C25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwitterBroadcastSystemModel", "..\TwitterBroadcastSystemModels\TwitterBroadcastSystemModel.csproj", "{D13AE460-59AB-47A4-B3E6-502F61CB8747}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hashibirokou", "..\Hashibirokou\Hashibirokou.csproj", "{336E71A3-3048-4452-8A10-0906D5E44C4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscordCommunications", "..\DiscordCommunications\DiscordCommunications.csproj", "{E9012352-F9AE-4CD3-8601-72328C22BBC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FAED8D8-6631-4D2F-AA9F-018D91C89BE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FAED8D8-6631-4D2F-AA9F-018D91C89BE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FAED8D8-6631-4D2F-AA9F-018D91C89BE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FAED8D8-6631-4D2F-AA9F-018D91C89BE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FF3CE60-0F55-4669-B76F-28FA8F76797E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FF3CE60-0F55-4669-B76F-28FA8F76797E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FF3CE60-0F55-4669-B76F-28FA8F76797E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FF3CE60-0F55-4669-B76F-28FA8F76797E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D330FB8-5DEE-4CB1-824D-B770BD219C25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D330FB8-5DEE-4CB1-824D-B770BD219C25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D330FB8-5DEE-4CB1-824D-B770BD219C25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D330FB8-5DEE-4CB1-824D-B770BD219C25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D13AE460-59AB-47A4-B3E6-502F61CB8747}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D13AE460-59AB-47A4-B3E6-502F61CB8747}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D13AE460-59AB-47A4-B3E6-502F61CB8747}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D13AE460-59AB-47A4-B3E6-502F61CB8747}.Release|Any CPU.Build.0 = Release|Any CPU
+		{336E71A3-3048-4452-8A10-0906D5E44C4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{336E71A3-3048-4452-8A10-0906D5E44C4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{336E71A3-3048-4452-8A10-0906D5E44C4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{336E71A3-3048-4452-8A10-0906D5E44C4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9012352-F9AE-4CD3-8601-72328C22BBC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9012352-F9AE-4CD3-8601-72328C22BBC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9012352-F9AE-4CD3-8601-72328C22BBC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9012352-F9AE-4CD3-8601-72328C22BBC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0788363B-64C3-481A-8F26-C033CB6BBC6D}
+	EndGlobalSection
+EndGlobal

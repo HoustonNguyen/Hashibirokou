@@ -1,0 +1,14 @@
+G:\Hue_Files\GITHub\TwitterBroadcastSystem\TwitterCommunications\bin\Debug\netstandard2.0\TwitterCommunications.deps.json
+G:\Hue_Files\GITHub\TwitterBroadcastSystem\TwitterCommunications\bin\Debug\netstandard2.0\TwitterCommunications.dll
+G:\Hue_Files\GITHub\TwitterBroadcastSystem\TwitterCommunications\bin\Debug\netstandard2.0\TwitterCommunications.pdb
+G:\Hue_Files\GITHub\TwitterBroadcastSystem\TwitterCommunications\obj\Debug\netstandard2.0\TwitterCommunications.AssemblyInfoInputs.cache
+G:\Hue_Files\GITHub\TwitterBroadcastSystem\TwitterCommunications\obj\Debug\netstandard2.0\TwitterCommunications.AssemblyInfo.cs
+G:\Hue_Files\GITHub\TwitterBroadcastSystem\TwitterCommunications\obj\Debug\netstandard2.0\TwitterCommunications.dll
+G:\Hue_Files\GITHub\TwitterBroadcastSystem\TwitterCommunications\obj\Debug\netstandard2.0\TwitterCommunications.pdb
+G:\Hue_Files\GITHub\TwitterBroadcastSystem\TwitterCommunications\obj\Debug\netstandard2.0\TwitterCommunications.csprojAssemblyReference.cache
+G:\Hue_Files\GITHub\TwitterBroadcastSystem\TwitterCommunications\bin\Debug\netstandard2.0\TwitterBroadcastSystemModel.dll
+G:\Hue_Files\GITHub\TwitterBroadcastSystem\TwitterCommunications\bin\Debug\netstandard2.0\EntityFramework.dll
+G:\Hue_Files\GITHub\TwitterBroadcastSystem\TwitterCommunications\bin\Debug\netstandard2.0\TwitterBroadcastSystemModel.pdb
+G:\Hue_Files\GITHub\TwitterBroadcastSystem\TwitterCommunications\bin\Debug\netstandard2.0\TwitterBroadcastSystemModel.dll.config
+G:\Hue_Files\GITHub\TwitterBroadcastSystem\TwitterCommunications\bin\Debug\netstandard2.0\EntityFramework.xml
+G:\Hue_Files\GITHub\TwitterBroadcastSystem\TwitterCommunications\obj\Debug\netstandard2.0\TwitterCommunications.csproj.CopyComplete

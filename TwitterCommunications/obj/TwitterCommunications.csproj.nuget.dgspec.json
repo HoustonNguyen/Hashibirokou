@@ -1,0 +1,101 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\Hue_Files\\GITHub\\TwitterBroadcastSystem\\TwitterCommunications\\TwitterCommunications.csproj": {}
+  },
+  "projects": {
+    "G:\\Hue_Files\\GITHub\\TwitterBroadcastSystem\\TwitterBroadcastSystemModels\\TwitterBroadcastSystemModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Hue_Files\\GITHub\\TwitterBroadcastSystem\\TwitterBroadcastSystemModels\\TwitterBroadcastSystemModel.csproj",
+        "projectName": "TwitterBroadcastSystemModel",
+        "projectPath": "G:\\Hue_Files\\GITHub\\TwitterBroadcastSystem\\TwitterBroadcastSystemModels\\TwitterBroadcastSystemModel.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "G:\\Hue_Files\\GITHub\\TwitterBroadcastSystem\\TwitterCommunications\\TwitterCommunications.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Hue_Files\\GITHub\\TwitterBroadcastSystem\\TwitterCommunications\\TwitterCommunications.csproj",
+        "projectName": "TwitterCommunications",
+        "projectPath": "G:\\Hue_Files\\GITHub\\TwitterBroadcastSystem\\TwitterCommunications\\TwitterCommunications.csproj",
+        "packagesPath": "C:\\Users\\Hue\\.nuget\\packages\\",
+        "outputPath": "G:\\Hue_Files\\GITHub\\TwitterBroadcastSystem\\TwitterCommunications\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Hue\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "G:\\Hue_Files\\GITHub\\TwitterBroadcastSystem\\TwitterBroadcastSystemModels\\TwitterBroadcastSystemModel.csproj": {
+                "projectPath": "G:\\Hue_Files\\GITHub\\TwitterBroadcastSystem\\TwitterBroadcastSystemModels\\TwitterBroadcastSystemModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Discord.Net.Webhook": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            },
+            "Google.Cloud.Translation.V2": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "linqtotwitter": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

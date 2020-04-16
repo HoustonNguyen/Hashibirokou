@@ -1,0 +1,11 @@
+G:\Hue_Files\GITHub\TwitterBroadcastSystem\TwitterBroadcastSystemModels\bin\Debug\TwitterBroadcastSystemModel.dll.config
+G:\Hue_Files\GITHub\TwitterBroadcastSystem\TwitterBroadcastSystemModels\bin\Debug\TwitterBroadcastSystemModel.dll
+G:\Hue_Files\GITHub\TwitterBroadcastSystem\TwitterBroadcastSystemModels\bin\Debug\TwitterBroadcastSystemModel.pdb
+G:\Hue_Files\GITHub\TwitterBroadcastSystem\TwitterBroadcastSystemModels\bin\Debug\EntityFramework.dll
+G:\Hue_Files\GITHub\TwitterBroadcastSystem\TwitterBroadcastSystemModels\bin\Debug\EntityFramework.SqlServer.dll
+G:\Hue_Files\GITHub\TwitterBroadcastSystem\TwitterBroadcastSystemModels\bin\Debug\EntityFramework.xml
+G:\Hue_Files\GITHub\TwitterBroadcastSystem\TwitterBroadcastSystemModels\bin\Debug\EntityFramework.SqlServer.xml
+G:\Hue_Files\GITHub\TwitterBroadcastSystem\TwitterBroadcastSystemModels\obj\Debug\TwitterBroadcastSystemModel.csproj.CopyComplete
+G:\Hue_Files\GITHub\TwitterBroadcastSystem\TwitterBroadcastSystemModels\obj\Debug\TwitterBroadcastSystemModel.dll
+G:\Hue_Files\GITHub\TwitterBroadcastSystem\TwitterBroadcastSystemModels\obj\Debug\TwitterBroadcastSystemModel.pdb
+G:\Hue_Files\GITHub\TwitterBroadcastSystem\TwitterBroadcastSystemModels\obj\Debug\TwitterBroadcastSystemModel.csprojAssemblyReference.cache
